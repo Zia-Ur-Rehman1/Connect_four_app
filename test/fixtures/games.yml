@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  state: MyText
+  current_player: 1
+  winner: 1
+
+two:
+  state: MyText
+  current_player: 1
+  winner: 1
